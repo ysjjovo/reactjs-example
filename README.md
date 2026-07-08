@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
+## 测试标记
+
+本仓库用于测试 `git-commit-push-pr` 技能工作流。
+
+- 测试时间: 2026-07-08
+- 测试方式: GitHub API (curl) 直接推送
+- 测试步骤: 创建分支 → 修改文件 → 提交 → 创建 PR
